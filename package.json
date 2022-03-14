@@ -10,9 +10,10 @@
   "license": "ISC",
   "dependencies": {
     "date-format": "^4.0.5",
-    "express": "^4.17.3"
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
   },
   "devDependencies": {
-    "nodemon": "^2.0.15"
+    
   }
 }
