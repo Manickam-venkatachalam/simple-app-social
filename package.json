@@ -9,9 +9,10 @@
   "author": "Manickam",
   "license": "ISC",
   "dependencies": {
-    "nodemon": "^2.0.15"
+    "date-format": "^4.0.5",
+    "express": "^4.17.3"
   },
   "devDependencies": {
-    "express": "^4.17.3"
+    "nodemon": "^2.0.15"
   }
 }
