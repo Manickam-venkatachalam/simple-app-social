@@ -1,7 +1,7 @@
 const express = require ('express');
 const date = require('date-format')
 const app= express ();
-const PORT = 4444|| process.env.PORT;
+const PORT =process.env.PORT || 4444;
 
 const d = new Date();
 d.getFullYear();
