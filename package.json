@@ -4,7 +4,7 @@
   "description": "simple social application ",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "node index.js"
   },
   "author": "Manickam",
   "license": "ISC",
